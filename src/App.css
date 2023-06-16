@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.lab{
+  font-size: 25px;
+  
+}
+.in{
+  width: 250px;
+  height: 30px;
+}
+.main{
+  background-color:rgb(215, 238, 238) ;
+  width: 800px;
+  height: 800px;
+
+}
+.li{
+  width: 600px;
+  height: 80px;
+  background-color: rgb(231, 250, 250);
+  margin-top: 20px;
+  border: 2px solid black;
+}
+
+.l{
+  width: 400px;
+  height: 60px;
+  background-color: rgb(191, 231, 231);
+  margin-top: 10px;
+}
+.k{
+  height: 40px;
+
+  background-color: red;
+  color: azure;
+}
+.z{
+ max-width: 500px;
+  max-height: 500px;
+  background-color: rgb(217, 238, 238);
+
+}
